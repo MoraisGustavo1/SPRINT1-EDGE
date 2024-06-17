@@ -31,7 +31,7 @@ Este projeto consiste em um sistema de alerta de condições climáticas para co
 
 ## Links
 - Simulação Wokwi: https://wokwi.com/projects/400618792890097665
-- Vídeo Explicativo: 
+- Vídeo Explicativo: https://www.youtube.com/watch?v=NZ84CJy3vLs
 
 # Integrantes
 - Gustavo Morais RM554972
